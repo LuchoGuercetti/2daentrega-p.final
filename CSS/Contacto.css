@@ -33,18 +33,9 @@
     }
 
     main div h4 {
+        margin-top: 50px;
         text-align: center;
-    }
-    
-    .carousel-inner img:hover {
-        transform: scale(1.5);
-        transition: 2s;
-    }
-    
-    .carousel-inner {
-        box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.31);
-        -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.31);
-        -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.31);
+        margin-bottom: 150px;
     }
     
     main div {
@@ -58,11 +49,17 @@
         margin-bottom: 100px;
     }
     
+    .row{
+        margin: 10px;
+    }
+
+
     /* -------------FOOTER------------ */
     
     footer {
         background-color: rgb(0, 0, 0);
         height: auto;
+        margin-top: 100px;
     }
     
     footer strong {
