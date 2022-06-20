@@ -24,22 +24,12 @@ h1 {
 }
 
 h4 {
+    text-align: center
+}
+
+h3{
     text-shadow: 4px 4px 2px rgba(0,0,0,0.15);
-}
-
-main div h4 {
-    text-align: center;
-}
-
-.carousel-inner img:hover {
-    transform: scale(1.5);
-    transition: 2s;
-}
-
-.carousel-inner {
-    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.31);
-    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.31);
-    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.31);
+    text-align: center
 }
 
 main div {
